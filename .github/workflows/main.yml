@@ -1,4 +1,4 @@
-name: Build React on S3
+name: push on S3 when git push yoruno-tobari
 on:
   push:
       branches:
