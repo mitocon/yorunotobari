@@ -2432,7 +2432,7 @@ input[name=switch] {
     border-radius: 4px;
     text-align: center;
     font-size: 1.2rem;
-    padding: 20px 30px;
+    padding: 5px 5px;
     max-width: 100% !important;
     vertical-align: bottom;
     display: block;
@@ -4167,15 +4167,6 @@ _:future,
     content: "\e933";
 }
 
-
-.hl-custom h1,
-.hl-custom h2 {
-    margin-bottom: 2em;
-    font-size: 1.3rem;
-    font-weight: 400;
-    text-align: center;
-}
-
 .hl-custom h3 {
     margin-top:
         2em;
@@ -4631,7 +4622,7 @@ footer .widget_tag_cloud .tagcloud a:before {
 
 footer .footer-widget .widgettitle {
     color: #fff !important;
-    border-color: #751a3d !important;
+    border-color: #b7a7ae !important;
 }
 
 footer .widget_nav_menu ul .children .children li a:before,
@@ -4700,13 +4691,13 @@ footer .widget_nav_menu ul .sub-menu .sub-menu li a:before {
 }
 
 .profile-follow a:hover {
-    color: #751a3d !important;
-    border-color: #751a3d !important;
+    color: #b7a7ae !important;
+    border-color: #b7a7ae !important;
 }
 
 .search-box:hover {
-    color: #751a3d !important;
-    border-color: #751a3d !important;
+    color: #b7a7ae !important;
+    border-color: #b7a7ae !important;
 }
 
 #nav-container {
@@ -4794,12 +4785,12 @@ footer .widget_nav_menu ul .sub-menu .sub-menu li a:before {
 .popular-item:nth-child(1) .pop-num,
 .popular-item:nth-child(2) .pop-num,
 .popular-item:nth-child(3) .pop-num {
-    background-color: #751a3d !important;
+    background-color: #b7a7ae !important;
 }
 
 .sidebar-btn a,
 .profile-sns-menu {
-    background-color: #751a3d !important;
+    background-color: #b7a7ae !important;
 }
 
 .pickup-contents-box a:hover .pickup-title {
@@ -4810,8 +4801,8 @@ footer .widget_nav_menu ul .sub-menu .sub-menu li a:before {
 .cps-post-cat a,
 .meta-cat,
 .popular-cat {
-    background-color: #751a3d !important;
-    border-color: #751a3d !important;
+    background-color: #b7a7ae !important;
+    border-color: #b7a7ae !important;
 }
 
 .tagicon,
@@ -4863,7 +4854,7 @@ footer .widget_nav_menu ul .sub-menu .sub-menu li a:before {
 }
 
 #footer-widget-area.footer_style1 .widgettitle {
-    border-color: #751a3d !important;
+    border-color: #b7a7ae !important;
 }
 
 .sidebar_style1 .widgettitle,
@@ -4885,7 +4876,7 @@ footer .widget_nav_menu ul .sub-menu .sub-menu li a:before {
 #home-top-widget .widget_search .search-box input[type="submit"],
 #post-bottom-widget .widget_search .search-box input[type="submit"],
 #post-top-widget .widget_search .search-box input[type="submit"] {
-    background-color: #751a3d !important;
+    background-color: #b7a7ae !important;
 }
 
 .tn-logo-size {
@@ -4912,7 +4903,7 @@ footer .widget_nav_menu ul .sub-menu .sub-menu li a:before {
 
 .cps-post-main ul>li:before,
 .cps-post-main ol>li:before {
-    background-color: #751a3d !important;
+    background-color: #b7a7ae !important;
 }
 
 .profile-card .profile-title {
@@ -5208,7 +5199,7 @@ footer .widget_nav_menu ul .sub-menu .sub-menu li a:before {
 .hl-custom h1,
 .hl-custom h2 {
     margin-bottom: 2em;
-    font-size: 1.3rem;
+    font-size: 2rem;
     font-weight: 400;
     text-align: center;
 }
@@ -5449,9 +5440,9 @@ p.salon-title {
 }
 
 .section {
-    margin: 2em calc(-50vw + 50%) 5em;
+    margin: 2em calc(-50vw + 50%) 2em;
     background: #2d2928;
-    padding: 3em 0;
+    padding: 1em 0;
 }
 
 .section-content {
