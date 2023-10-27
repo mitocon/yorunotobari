@@ -5596,9 +5596,6 @@ div#sidebar .widget {
     text-decoration: none;
 }
 
-
-
-
 #to_page_top a::before {
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
@@ -5615,4 +5612,8 @@ div#sidebar .widget {
     margin: auto;
     text-align: center;
 
+}
+
+.map {
+    text-align: center;
 }
