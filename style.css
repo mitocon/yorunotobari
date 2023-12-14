@@ -1900,7 +1900,7 @@ input[name=switch] {
 .cps-post-main table tr td,
 .cps-post-main table tr th {
     padding: 8px;
-    border: 1px solid #ccc;
+    border: 1px solid #eee;
     vertical-align: middle;
 }
 
